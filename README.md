@@ -1,9 +1,11 @@
 # 📝 TDS Exam Questions Setup Guide
 
 > Complete guide for creating and submitting your exam questions
+> 
+<img width="1536" height="1024" alt="ChatGPT Image Dec 17, 2025, 11_16_47 AM" src="https://github.com/user-attachments/assets/c07b26af-f9a3-4e2f-88c8-445ad0214687" />
 
 ## 🎯 Roll Number
-**22f3001994**
+**22f300XXXX**
 
 ---
 
