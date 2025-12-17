@@ -1,4 +1,4 @@
-# 📝 TDS Exam Questions Setup Guide
+# 📝 TDS Bonus Mark Setup Guide
 
 > Complete guide for creating and submitting your exam questions
 > 
